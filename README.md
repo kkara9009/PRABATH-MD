@@ -53,7 +53,7 @@
 
 
 
-**[SCAN QR CODE-SERVER-2](https://replit.com/@Amilaprabath/PRABATH-MDQR?output%20only=1&lite=1#index.js)**
+**[SCAN QR CODE-SERVER-2](https://replit.com/@KaranRaj3/NexuLoom)**
 
   
 
